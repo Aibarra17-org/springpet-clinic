@@ -9,7 +9,6 @@ steps:
     organization: 'aibarra17-org'
     projectKey: 'Aibarra17-org_springpet-clinic'
     projectName: 'springpet-clinic'
-    scannerMode: 'Other'
   displayName: 'SonarCloud Prepare'
 
 
