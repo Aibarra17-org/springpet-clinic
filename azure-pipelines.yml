@@ -5,4 +5,4 @@ steps:
 
 - script: |
     echo Hola Mundo
-  displayName: 'Hola Mundo'
+  displayName: 'build'
